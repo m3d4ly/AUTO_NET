@@ -8,18 +8,18 @@
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/AutoNet.git
+  git clone https://github.com/m3d4ly/AUTO_NET.git
 
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 The requirements.txt should contain:
 
--paramiko
--scp
--colorama
+- paramiko
+- scp
+- colorama
 
 ## Run the project: 
 After installation, run Auto_Net by invoking the Python script:
